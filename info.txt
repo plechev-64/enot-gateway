@@ -1,0 +1,7 @@
+Name: Enot Gateway;
+Version: 1.1.2;
+Support Core: 16.24.0;
+ItemID: 23768;
+Description: Подключение сайта к платежному агрегатору Enot https://enot.io/;
+Author: Плечёв Андрей;
+Author URI: http://codeseller.ru/;
